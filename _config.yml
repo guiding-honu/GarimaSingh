@@ -22,9 +22,10 @@ author: Garima Singh
 
 # List of links in the navigation bar
 navbar-links:
-  About me: "aboutme"
   Profession: "profession"
+  Who am I?: "aboutme"
   Passion: "photography"
+  Resources: "resources"
     # Research: "research"
   # Publications: "pubs"
   #Travel: "travel"
