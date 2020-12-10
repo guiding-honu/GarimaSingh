@@ -1,5 +1,7 @@
 ---
 layout: page
-title: Garima Singh
 use-site-title: true
 ---
+
+## Garima Singh
+## Astronomy & Astrophysics, PhD
