@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Garima Singh
-subtitle: abc
+subtitle:
 use-site-title: true
 ---
+
+# Garima Singh
 ![](/assets/img/GS.jpg)
 
 
