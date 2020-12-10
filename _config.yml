@@ -53,8 +53,8 @@ footer-link-col: "#b8b6b6" # "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/HST.jpg"
-footer-img: "/img/HST.jpg"
+navbar-img: "/assets/img/HST.jpg"
+footer-img: "/assets/img/HST.jpg"
 #page-img: "/img/Honu_click_by_Garimasingh.JPG"
 
 # --- Footer options --- #
