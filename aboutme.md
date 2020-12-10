@@ -4,7 +4,7 @@ title: Garima Singh
 subtitle: abc
 use-site-title: true
 ---
-![](/img/GS.jpg)
+![](/assets/img/GS.jpg)
 
 
 ### My story
