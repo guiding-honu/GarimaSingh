@@ -1,12 +1,10 @@
 ---
 layout: page
-title:
-subtitle: Garima Singh
 use-site-title: true
 ---
 
 ![](/assets/img/GS.jpg)
 
 
-### My story
+### How did it all began?
 
