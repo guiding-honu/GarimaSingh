@@ -1,6 +1,7 @@
 ---
 layout: page
-title: # Garima Singh
+title:
+subtitle: Garima Singh
 use-site-title: true
 ---
 
