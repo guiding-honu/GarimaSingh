@@ -16,7 +16,7 @@ British Columbia (BC), Canada
 
 ### Previous Affiliations
 
-- Marie Sk&#322àlodowska-Curie Actions Postdoctoral fellow at LESIA, Observatoire de Paris-Meudon, France (June 2018 - September 2020)
+- Marie Skłodowska-Curie Actions Postdoctoral fellow at LESIA, Observatoire de Paris-Meudon, France (June 2018 - September 2020)
 - NASA Postdoctoral Program (NPP) Fellow at NASA Jet Propulsion Laboratory, Pasadena, USA (November 2015 - October 2017)
 
-#### Full CV can be find [here](/CV_GS_2020.pdf).
+### Full CV can be find [here](/CV_GS_2020.pdf).
