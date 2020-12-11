@@ -5,6 +5,10 @@ subtitle: Astronomy & Astrophysics, PhD
 use-site-title: true
 ---
 
+### What do I do exactly?
+
+Develop instruments to search and directly image (exo-)planets outside of our solar system using ground-based telescopes (8-10 meters). 
+
 ### Current Affiliation
 
 Postdoctoral Fellow, Life Signatures on Exoplanets <br />
