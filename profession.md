@@ -38,14 +38,14 @@ Thesis Advisors: [Dr. Olivier Guyon](https://subarutelescope.org/staff/guyon/), 
 ### Peer-reviewed articles (first author)
 
 - _"Active minimization of non-common path aberrations in long-exposure imaging of exoplanetary systems"_,
-Singh, G., Galicher, R., Baudoz, P., Dupuis, O., Ortiz, M., Potier, A., Thijs, S., Huby, E., 2019, A&A, [631, A106](https://www.aanda.org/articles/aa/abs/2019/11/aa36206-19/aa36206-19.html).
+Singh, G., Galicher, R., Baudoz, P., Dupuis, O., Ortiz, M., Potier, A., Thijs, S., Huby, E., 2019, A&A, [631, A106](https://www.aanda.org/articles/aa/abs/2019/11/aa36206-19/aa36206-19.html).  <br />
 - _"A demonstration of a versatile low-order wavefront sensor tested on multiple coronagraphs"_,
 Singh, G., Lozi, J., Jovanovic, N., Guyon, O., Baudoz, P., Kudo, T., Publications of the Astronomical Society
-of the Pacific, 2017, [Vol. 129, Number 979](https://iopscience.iop.org/article/10.1088/1538-3873/aa76c1/meta).
+of the Pacific, 2017, [Vol. 129, Number 979](https://iopscience.iop.org/article/10.1088/1538-3873/aa76c1/meta).  <br />
 - _"On-sky demonstration of low-order wavefront sensing and control with focal plane phase mask coronagraphs"_,
-Singh, G., Lozi, J., Guyon, O., Baudoz, P., Jovanovic N., Martinache, F., Kudo, T.,Serabyn, E., & Kuhn, J., Publications of the Astronomical Society of the Pacific, 2015, Volume 127, issue 955, [pp.857-869](https://iopscience.iop.org/article/10.1086/682726?fromSearchPage=true).
+Singh, G., Lozi, J., Guyon, O., Baudoz, P., Jovanovic N., Martinache, F., Kudo, T.,Serabyn, E., & Kuhn, J., Publications of the Astronomical Society of the Pacific, 2015, Volume 127, issue 955, [pp.857-869](https://iopscience.iop.org/article/10.1086/682726?fromSearchPage=true).  <br />
 - _"Lyot-based low-order wavefront sensor for phase mask coronagraphs: Principle, Simulations and Laboratory Experiments"_,
-Singh, G., Martinache, F., Baudoz, P., Guyon, O., Matsuo, T., Jovanovic N., Clergeon, C., Publications of the Astronomical Society of the Pacific, June 2014, [vol. 126, pp. 586-594](https://iopscience.iop.org/article/10.1086/677048).
+Singh, G., Martinache, F., Baudoz, P., Guyon, O., Matsuo, T., Jovanovic N., Clergeon, C., Publications of the Astronomical Society of the Pacific, June 2014, [vol. 126, pp. 586-594](https://iopscience.iop.org/article/10.1086/677048).  <br />
 - ADS [link](https://ui.adsabs.harvard.edu/public-libraries/mIDtSBIcSxmzHIz-SxrjkA) to other refereed publications.
 - ADS [link](https://ui.adsabs.harvard.edu/public-libraries/V36n3qzlTKm3JWwlH3B8yw) to Conference Proceedings.
 - Alternatively, ORCID [profie](https://orcid.org/0000-0001-8224-9106).
