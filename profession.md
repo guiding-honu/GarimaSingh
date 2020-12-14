@@ -30,6 +30,25 @@ British Columbia (BC), Canada
 
 - [PhD student](https://www.naoj.org/Projects/SCEXAO/scexaoWEB/060team.web/010team.web/indexm.html) _(October 2012 - September 2015)_ <br />
 Subaru Telescope, Hilo, Big Island of Hawaii, USA and, <br />
-LESIA, Observatoire de Paris-Meudon, France
+LESIA, Observatoire de Paris-Meudon, France <br />
+Dissertation: [Low-order wavefront control and calibration for phase mask coronagraphs](https://hal.archives-ouvertes.fr/tel-01221421).
+Thesis Advisors: [Dr. Olivier Guyon](https://subarutelescope.org/staff/guyon/), [Dr. Pierre Baudoz](https://www.linkedin.com/in/baudoz-pierre-b0b00a27/?originalSubdomain=fr)
+
+
+### Peer-reviewd articles (first author)
+
+- Active minimization of non-common path aberrations in long-exposure imaging of exoplanetary systems".<br />
+Singh, G., Galicher, R., Baudoz, P., Dupuis, O., Ortiz, M., Potier, A., Thijs, S., Huby, E., 2019, A&A, [631, A106](https://www.aanda.org/articles/aa/abs/2019/11/aa36206-19/aa36206-19.html).
+- A demonstration of a versatile low-order wavefront sensor tested on multiple coronagraphs". <br />
+Singh, G., Lozi, J., Jovanovic, N., Guyon, O., Baudoz, P., Kudo, T., Publications of the Astronomical Society
+of the Pacific, [Vol. 129, Number 979, 2017](https://iopscience.iop.org/article/10.1088/1538-3873/aa76c1/meta).
+- On-sky demonstration of low-order wavefront sensing and control with focal plane phase mask coronagraphs". <br />
+Singh, G., Lozi, J., Guyon, O., Baudoz, P., Jovanovic N., Martinache, F., Kudo, T.,Serabyn, E., & Kuhn, J., Publications of the Astronomical Society of the Pacific, Volume 127, issue 955, [pp.857-869, 2015](https://iopscience.iop.org/article/10.1086/682726?fromSearchPage=true).
+- Lyot-based low-order wavefront sensor for phase mask coronagraphs: Principle, Simulations and Laboratory Experiments". <br />
+Singh, G., Martinache, F., Baudoz, P., Guyon, O., Matsuo, T., Jovanovic N., Clergeon, C., Publications of the Astronomical Society of the Pacific, [vol. 126, pp. 586-594, June 2014](https://iopscience.iop.org/article/10.1086/677048).
+- ADS [link](https://ui.adsabs.harvard.edu/public-libraries/mIDtSBIcSxmzHIz-SxrjkA) to other refereed publications.
+- ADS [link](https://ui.adsabs.harvard.edu/public-libraries/V36n3qzlTKm3JWwlH3B8yw) to Conference Proceedings.
+- Alternatively, ORCID [profie](https://orcid.org/0000-0001-8224-9106).
+
 
 ### Full CV can be find [here](/CV_GS_2020.pdf).
