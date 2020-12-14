@@ -7,7 +7,11 @@ use-site-title: true
 
 ### What do I do exactly?
 
-Develop instruments to search and directly image (exo-)planets outside of our solar system using ground-based telescopes (8-10 meters). 
+Develop instruments for ground-based telescopes (8-10 meters) to search and directly image (exo-)planets outside of our solar system. <br />
+Below, you may find three public articles I wrote, describing the research problem we are trying to solve in layman's terms:-  <br />
+- [World beyond ours](https://www.esperluette-research-outreach.com/single-post/2019/07/08/Worlds-beyond-ours).
+- Improving data interpretation of exoplanet images [(page 27)](Page27_MCAA_Newsletter_December_2019_v5.pdf).
+- [Paving the way for improving exoplanet imaging with ground-based telescopes](PRJ5-EXOPLANETS-Prfd_v4.pdf).
 
 ### Current Affiliation
 
