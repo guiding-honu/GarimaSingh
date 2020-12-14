@@ -12,6 +12,10 @@ Develop instruments for ground-based telescopes (8-10 meters) to search and dire
 - Improving data interpretation of exoplanet images [(page 27)](Page27_MCAA_Newsletter_December_2019_v5.pdf).
 - [Paving the way for improving exoplanet imaging with ground-based telescopes](PRJ5-EXOPLANETS-Prfd_v4.pdf).
 
+#### Are of interest
+
+Extreme Adaptive Optics mainly wavefront sensing and control, post-processing of exoplanet data, speckle suppression and control algorithms, processing of debris disk data
+
 ### Current Affiliation
 
 Postdoctoral Fellow, Life Signatures on Exoplanets <br />
