@@ -23,26 +23,28 @@ British Columbia (BC), Canada
 
 ### Previous Affiliations
 
-- [Marie Skłodowska-Curie Actions Postdoctoral fellow](https://thd-bench.lesia.obspm.fr/team-10/)  _(June 2018 - September 2020)_ <br /> LESIA, Observatoire de Paris-Meudon, France
-- [NASA Postdoctoral Program (NPP) Fellow](https://npp.usra.edu/fellows/former-fellows/?year=2017) _(November 2015 - October 2017)_ <br /> NASA Jet Propulsion Laboratory, Pasadena, California, USA 
+- [Marie Skłodowska-Curie Actions Postdoctoral fellow](https://thd-bench.lesia.obspm.fr/team-10/)  _(June 2018 - September 2020)_ <br /> 
+_LESIA, Observatoire de Paris-Meudon, France_
+- [NASA Postdoctoral Program (NPP) Fellow](https://npp.usra.edu/fellows/former-fellows/?year=2017) _(November 2015 - October 2017)_ <br /> 
+_NASA Jet Propulsion Laboratory, Pasadena, California, USA_ 
 
 >_I am incredibly grateful to the anonymous reviewers for recognizing my potential and giving me an opportunity to perofrm my research work under the umbrella of these gracious titles._
 
 ### Studies
 
 - [PhD student](https://www.naoj.org/Projects/SCEXAO/scexaoWEB/060team.web/010team.web/indexm.html) _(October 2012 - September 2015)_ <br />
-Subaru Telescope, Hilo, Big Island of Hawaii, USA and, <br />
-LESIA, Observatoire de Paris-Meudon, France <br />
+_Subaru Telescope, Hilo, Big Island of Hawaii, USA and, <br />
+LESIA, Observatoire de Paris-Meudon, France_ <br />
 Dissertation, 2015: [Low-order wavefront control and calibration for phase mask coronagraphs](https://hal.archives-ouvertes.fr/tel-01221421). Mention: Très Honorable <br />
 Thesis Advisors: [Dr. Olivier Guyon](https://subarutelescope.org/staff/guyon/), [Dr. Pierre Baudoz](https://www.linkedin.com/in/baudoz-pierre-b0b00a27/?originalSubdomain=fr)
 
 - M.Tech., Honors, Astronomy & Astrophysics _(July 2008 - September 2010)_ <br />
-Université de Paris XI Sud and Ecole Normale Superieure de Cachan, France <br />
+_Université de Paris XI Sud and Ecole Normale Superieure de Cachan, France_ <br />
 Domain: [Astronomical & Space-based System Engineering](http://ufe.obspm.fr/Master/Master-2-Outils-et-Systemes-de-l-Astronomie-et-de-l-Espace/Master-degree/) <br />
 Thesis Advisors: [Dr. Guy Perrin](https://www.insu.cnrs.fr/fr/personne/guy-perrin) (LESIA), [Dr. Yutaka Hayano](https://www.researchgate.net/profile/Yutaka_Hayano) (Subaru Telescope)
 
 - B.Tech., First Division, Information Technology _(July 2004 - May 2008)_ <br />
-College of Engineering Roorkee, Uttar Pradesh Technical University, India
+_College of Engineering Roorkee, Uttar Pradesh Technical University, India_
 
 
 ### Peer-reviewed articles (first author)
@@ -80,6 +82,7 @@ Center for Adaptive Optics summer school (CfAO), University of California, Santa
 - International Astronomical Union (IAU) [junior member](https://www.iau.org/administration/membership/individual/19074/).
 - Marie Skłodowska-Curie Alumni Association Member (France & India).
 - Volunteer mentor at [The Supernova Foundation](https://www.supernovafoundation.org/mentorbios) providing career guidance to women.
+- An organizer of the [NYRIA](https://nyriastronomy.github.io/) workshop. 
 
 
 ### Full [CV](/CV_GS_2020.pdf).
