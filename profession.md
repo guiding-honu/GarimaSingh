@@ -64,5 +64,22 @@ Singh, G., Martinache, F., Baudoz, P., Guyon, O., Matsuo, T., Jovanovic N., Cler
 - ADS [link](https://ui.adsabs.harvard.edu/public-libraries/V36n3qzlTKm3JWwlH3B8yw) to Conference Proceedings.
 - Alternatively, ORCID [profie](https://orcid.org/0000-0001-8224-9106).
 
+### Community Work
+
+#### Reviewer
+
+- 2019 & 2020 [FINESST](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B913A7DEE-2747-6539-130C-0AB1E2322F42%7D&path=future&method=init) (Future Investigators in NASA Earth and Space Science and Technology) Astrophysics proposals.
+- Journal of Astronomical Telescopes, Instruments, and Systems (JATIS).
+
+#### Invited lecture
+
+[Wavefront sensing and reconstruction](/CfAO_final_talk_GS.pdf), August 20, 2019  <br />
+Center for Adaptive Optics summer school (CfAO), University of California, Santa Cruz
+
+#### Professional services
+- International Astronomical Union (IAU) [junior member](https://www.iau.org/administration/membership/individual/19074/).
+- Marie Skłodowska-Curie Alumni Association Member (France & India).
+- Volunteer mentor at [The Supernova Foundation](https://www.supernovafoundation.org/mentorbios) providing career guidance to women.
+
 
 ### Full [CV](/CV_GS_2020.pdf).
