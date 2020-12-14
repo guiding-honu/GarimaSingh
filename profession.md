@@ -28,11 +28,21 @@ British Columbia (BC), Canada
 
 >_I am incredibly grateful to the anonymous reviewers for recognizing my potential and giving me an opportunity to perofrm my research work under the umbrella of these gracious titles._
 
+### Studies
+
 - [PhD student](https://www.naoj.org/Projects/SCEXAO/scexaoWEB/060team.web/010team.web/indexm.html) _(October 2012 - September 2015)_ <br />
 Subaru Telescope, Hilo, Big Island of Hawaii, USA and, <br />
 LESIA, Observatoire de Paris-Meudon, France <br />
 Dissertation, 2015: [Low-order wavefront control and calibration for phase mask coronagraphs](https://hal.archives-ouvertes.fr/tel-01221421).
 Thesis Advisors: [Dr. Olivier Guyon](https://subarutelescope.org/staff/guyon/), [Dr. Pierre Baudoz](https://www.linkedin.com/in/baudoz-pierre-b0b00a27/?originalSubdomain=fr)
+
+- M.Tech., Honors, Astronomy & Astrophysics _(July 2008 - September 2010)_ <br />
+Université de Paris XI Sud and Ecole Normale Superieure de Cachan, France <br />
+Domain: [Astronomical & Space-based System Engineering](http://ufe.obspm.fr/Master/Master-2-Outils-et-Systemes-de-l-Astronomie-et-de-l-Espace/Master-degree/) <br />
+Thesis Advisors: [Dr. Guy Perrin](https://www.insu.cnrs.fr/fr/personne/guy-perrin) (LESIA), [Dr. Yutaka Hayano](https://www.researchgate.net/profile/Yutaka_Hayano) (Subaru Telescope)
+
+- B.Tech., First Division, Information Technology _(July 2004 - May 2008)_ <br />
+College of Engineering Roorkee, Uttar Pradesh Technical University, India
 
 
 ### Peer-reviewed articles (first author)
