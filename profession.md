@@ -51,4 +51,4 @@ Singh, G., Martinache, F., Baudoz, P., Guyon, O., Matsuo, T., Jovanovic N., Cler
 - Alternatively, ORCID [profie](https://orcid.org/0000-0001-8224-9106).
 
 
-### Full CV can be find [here](/CV_GS_2020.pdf).
+### Full [CV](/CV_GS_2020.pdf).
