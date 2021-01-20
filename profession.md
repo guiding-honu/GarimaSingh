@@ -16,7 +16,7 @@ Develop instruments for ground-based telescopes (8-10 meters) to search and dire
 
 Extreme Adaptive Optics mainly wavefront sensing and control, post-processing of exoplanet data, speckle suppression and control algorithms, processing of debris disk data
 
-### Current Affiliation
+### Current Affiliation (January 2021 - Present)
 
 Postdoctoral Fellow, Life Signatures on Exoplanets <br />
 National Research Council of Canada <br />
@@ -32,7 +32,7 @@ _LESIA, Observatoire de Paris-Meudon, France_
 - [NASA Postdoctoral Program (NPP) Fellow](https://npp.usra.edu/fellows/former-fellows/?year=2017) _(November 2015 - October 2017)_ <br /> 
 _NASA Jet Propulsion Laboratory, Pasadena, California, USA_ 
 
->_I am incredibly grateful to all the anonymous reviewers for recognizing my potential and giving me an opportunity to perofrm my research work under the umbrella of these gracious titles._
+>_I am incredibly grateful to anonymous reviewers for recognizing my potential and giving me opportunities to perofrm my research work under the umbrella of these gracious titles._
 
 ### Studies
 
