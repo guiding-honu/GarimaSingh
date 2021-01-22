@@ -1,6 +1,7 @@
 ---
 layout: page
-subtitle: P
+title: P
+subtitle:h
 use-site-title: true
 ---
 
