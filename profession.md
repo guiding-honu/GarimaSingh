@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: *Garima Singh* <br /> Astronomy & Astrophysics, PhD
+subtitle: **Garima Singh** <br /> Astronomy & Astrophysics, PhD
 use-site-title: true
 ---
 
