@@ -12,7 +12,7 @@ Develop instruments for ground-based telescopes (8-10 meters) to search and dire
 - Improving data interpretation of exoplanet images [(page 27)](Page27_MCAA_Newsletter_December_2019_v5.pdf).
 - [Paving the way for improving exoplanet imaging with ground-based telescopes](PRJ5-EXOPLANETS-Prfd_v4.pdf).
 
-#### Area of interests
+### Area of interests
 
 Extreme Adaptive Optics mainly wavefront sensing and control, post-processing of exoplanet data, speckle suppression and control algorithms, processing of debris disk data
 
@@ -34,7 +34,7 @@ _NASA Jet Propulsion Laboratory, Pasadena, California, USA_
 
 >_I am incredibly grateful to anonymous reviewers for recognizing my potential and giving me opportunities to perofrm my research work under the umbrella of these gracious titles._
 
-### Studies
+### Education
 
 - [PhD student](https://www.naoj.org/Projects/SCEXAO/scexaoWEB/060team.web/010team.web/indexm.html) _(October 2012 - September 2015)_ <br />
 _Subaru Telescope, Hilo, Big Island of Hawaii, USA and, <br />
