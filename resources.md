@@ -14,9 +14,9 @@ https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/ <br />
 http://exoplanetarchive.ipac.caltech.edu/ <br />
 https://www.jpl.nasa.gov/habex/ <br />
 
-### Adaptive Optics
-https://www.ucolick.org/~max/289/ <br />
-https://subarutelescope.org/staff/guyon/15teaching.web/00AstrOptics.web/content.html <br />
+### Lectures
+[Adaptive Optics](https://www.ucolick.org/~max/289/) <br />
+[Astronomical Optics](https://subarutelescope.org/staff/guyon/15teaching.web/00AstrOptics.web/content.html) <br />
 
 ### Equity, Diversity and Inclusion
 
