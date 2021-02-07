@@ -5,5 +5,5 @@ subtitle:
 use-site-title: true
 ---
 
-Astronomy, photography and Van Gogh 
+### Astronomy, photography and Vincent Van Gogh 
 
