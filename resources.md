@@ -8,18 +8,22 @@ use-site-title: True
 Some useful websites:-
 
 ### Exoplanets
-(https://exoplanets.nasa.gov/) <br />
-https://exoplanets.nasa.gov/eyes-on-exoplanets/#/ <br />
-https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/ <br />
-http://exoplanetarchive.ipac.caltech.edu/ <br />
-https://www.jpl.nasa.gov/habex/ <br />
+[Total number of exoplanets discoverd as of today](https://exoplanets.nasa.gov/) <br />
+[Eyes on Exoplanets app](https://exoplanets.nasa.gov/eyes-on-exoplanets/#/) <br />
+[Posters of planets](https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/) <br />
+[NASA Exoplanet Archive](http://exoplanetarchive.ipac.caltech.edu/) <br />
+[Habitable Exoplanet Observatory](https://www.jpl.nasa.gov/habex/) <br />
 
-### Lectures
+### Lectures, Talks and Research papers
 [Adaptive Optics](https://www.ucolick.org/~max/289/) <br />
 [Astronomical Optics](https://subarutelescope.org/staff/guyon/15teaching.web/00AstrOptics.web/content.html) <br />
+[Astronomers for planet Earth](https://astronomersforplanet.earth/)  <br />
+[Debris Disk library](http://w.astro.berkeley.edu/~kalas/disksite/pages/library.html) <br />
+
 
 ### Equity, Diversity and Inclusion
 
+[Women in Obsevatory](http://womeninobservatory.blogspot.com/) <br />
 [STEM ambassador](https://www.stem.org.uk/stem-ambassadors) <br />
 [Mentoring program for women by women](https://www.supernovafoundation.org/)  <br />
 [LGBT STEM](https://prideinstem.org/) <br />
@@ -35,6 +39,7 @@ https://www.jpl.nasa.gov/habex/ <br />
 [BBSTEM (Black British Professionals in STEM)](https://bbstem.co.uk/bbstem-uni-alliance/) <br />
 [Understanding Non-Binary people](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) <br />
 [Astronomy in India](https://astronomyinindia.github.io/) <br />
+[Bias Watch India](https://biaswatchindia.com/about/) <br />
 [Pint of Science festival](https://pintofscience.com) <br />
 [Astronomy on Tap](https://astronomyontap.org) <br />
 [Physics at work](https://www.physicsatwork.com) <br />
@@ -44,3 +49,7 @@ https://www.jpl.nasa.gov/habex/ <br />
 [Optics for kids](https://www.optics4kids.org/home) <br />
 
 
+### Collection of Books
+
+[The Bibliothèque nationale de France Catalogue](https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop) <br />
+[Wide variety of books](http://www.arvindguptatoys.com/) <br />
