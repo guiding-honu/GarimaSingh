@@ -8,7 +8,7 @@ use-site-title: True
 Some useful websites:-
 
 ### Exoplanets
-https://exoplanets.nasa.gov/
+[https://exoplanets.nasa.gov/]
 https://exoplanets.nasa.gov/eyes-on-exoplanets/#/
 https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/
 http://exoplanetarchive.ipac.caltech.edu/
