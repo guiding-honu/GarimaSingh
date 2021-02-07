@@ -5,7 +5,7 @@ subtitle:
 use-site-title: True
 ---
 
-Some useful resources:
+Some useful websites:-
 
 ## Exoplanets 
 
