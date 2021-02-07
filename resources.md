@@ -24,6 +24,8 @@ Some useful websites:-
 ### Equity, Diversity and Inclusion
 
 [Women in Obsevatory](http://womeninobservatory.blogspot.com/) <br />
+[The misuse of colour in science communication](https://www.nature.com/articles/s41467-020-19160-7)<br />
+[Astrobites](https://astrobites.org/about/) <br />
 [STEM ambassador](https://www.stem.org.uk/stem-ambassadors) <br />
 [Mentoring program for women by women](https://www.supernovafoundation.org/)  <br />
 [LGBT STEM](https://prideinstem.org/) <br />
