@@ -2,8 +2,10 @@
 layout: page
 title: 
 subtitle:
-use-site-title: False
+use-site-title: True
 ---
+
+Some useful resources:
 
 ## Exoplanets 
 
