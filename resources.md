@@ -51,5 +51,5 @@ Some useful websites:-
 
 ### Collection of Books
 
-[The Bibliothèque nationale de France Catalogue](https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop) <br />
+[Bibliothèque nationale de France Catalogue](https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop) <br />
 [Wide variety of books](http://www.arvindguptatoys.com/) <br />
