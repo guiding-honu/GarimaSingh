@@ -89,4 +89,4 @@ Center for Adaptive Optics summer school (CfAO), University of California, Santa
 - An organizer of the [NYRIA](https://nyriastronomy.github.io/) workshop. 
 
 
-### Full [CV](/CV_GS_2020.pdf).
+### Full [CV](/CV_GS_Jan2021.pdf).
