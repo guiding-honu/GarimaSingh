@@ -14,7 +14,7 @@ Some useful websites:-
 [NASA Exoplanet Archive](http://exoplanetarchive.ipac.caltech.edu/) <br />
 [Habitable Exoplanet Observatory](https://www.jpl.nasa.gov/habex/) <br />
 
-### Lectures, Talks and Research papers
+### Lectures, talks, research papers and great initiatives
 [Adaptive Optics](https://www.ucolick.org/~max/289/) <br />
 [Astronomical Optics](https://subarutelescope.org/staff/guyon/15teaching.web/00AstrOptics.web/content.html) <br />
 [Astronomers for planet Earth](https://astronomersforplanet.earth/)  <br />
