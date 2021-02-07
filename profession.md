@@ -16,14 +16,14 @@ Develop instruments for ground-based telescopes (8-10 meters) to search and dire
 
 Extreme Adaptive Optics mainly wavefront sensing and control, post-processing of exoplanet data, speckle suppression and control algorithms, processing of debris disk data
 
-### Current Affiliation (January 2021 - Present)
+### Current Affiliation (February 2021 - Present)
 
 Postdoctoral Fellow, Life Signatures on Exoplanets <br />
 National Research Council of Canada <br />
 [Herzberg Astronomy and Astrophysics Research Centre](https://astroherzberg.org/) <br />
 5071 W Saanich Rd <br />
-Victoria BC V9E 2E7 <br />
-British Columbia (BC), Canada
+Victoria V9E 2E7 <br />
+British Columbia, Canada
 
 ### Previous Affiliations
 
