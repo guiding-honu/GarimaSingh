@@ -67,4 +67,4 @@ Some useful websites:-
 [Wide variety of books](http://www.arvindguptatoys.com/) <br />
 
 ### Change of Heart (Buddhist) talks
-[Dharma Talk by Thich Nhat Hanh](https://www.youtube.com/watch?v=FOD3YE0WD2o&t=1594s) <br />
+[Nondiscrimination, Dharma Talk by Thich Nhat Hanh](https://www.youtube.com/watch?v=FOD3YE0WD2o&t=1594s) <br />
