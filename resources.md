@@ -22,7 +22,7 @@ Some useful websites:-
 ### Climate change
 [Astronomers for planet Earth](https://astronomersforplanet.earth/)  <br />
 [The climate reality project](https://www.climaterealityproject.org/training) <br />
-[Free Nature astronomy paper on the climate issue](https://www.nature.com/articles/s41550-020-01216-9) <br />
+[Free Nature astronomy papers on the climate issue](https://www.nature.com/articles/s41550-020-01216-9) <br />
 [Carbon footprint of your food](https://ourworldindata.org/food-choice-vs-eating-local) <br />
 
 ### Equity, Diversity and Inclusion
@@ -66,5 +66,7 @@ Some useful websites:-
 [24 best books about Nature and Trees](https://onetreeplanted.org/blogs/stories/best-books-nature-trees)<br />
 [Wide variety of books](http://www.arvindguptatoys.com/) <br />
 
-### Change of Heart (Buddhist) talks
+### Change of Heart (Buddhist) talks/links
 [Nondiscrimination, Dharma Talk by Thich Nhat Hanh](https://www.youtube.com/watch?v=FOD3YE0WD2o&t=1594s) <br />
+[The art of communicating audiobook by Thich Nhat Hanh](https://www.youtube.com/watch?v=dDW6FYdIoYE) <br />
+[Fear to Fearlessness by Pema Chödrön](https://www.youtube.com/watch?v=6t_SGso_1PY) <br />
