@@ -90,7 +90,7 @@ Center for Adaptive Optics summer school (CfAO), University of California, Santa
 
 #### Link to an invited outreach talk
 
-National Space Society USA-Mumbai chapter: [How to image Exoplanets?](https://www.youtube.com/watch?v=dtFX8FQqrPY&feature=youtu.be)
+National Space Society USA-Mumbai chapter, January 2021: [How to image Exoplanets?](https://www.youtube.com/watch?v=dtFX8FQqrPY&feature=youtu.be)
 
 
 ### Full [CV](/CV_GS_Jan2021.pdf).
