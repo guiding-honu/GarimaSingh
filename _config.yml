@@ -25,7 +25,6 @@ navbar-links:
   Profession: "profession"
   Who am I?: "aboutme"
   Hobbies: "photography"
-    - Birds: "birds.md"
   Resources: "resources"
     # Research: "research"
   # Publications: "pubs"
