@@ -14,7 +14,7 @@ Develop instruments for ground-based telescopes (8-10 meters) to search and dire
 
 ### Areas of interest
 
-Extreme Adaptive Optics mainly wavefront sensing and control, post-processing of exoplanet data, speckle suppression and control algorithms, processing of debris disk data
+Extreme Adaptive Optics mainly wavefront sensing and control, post-processing of exoplanet and debris disk data and speckle suppression and control algorithms.
 
 ### Current Affiliation (February 2021 - Present)
 
