@@ -25,7 +25,7 @@ navbar-links:
   Profession: "profession"
   Who am I?: "aboutme"
   Hobbies: "photography"
-    - Birds: "https://github.com/guiding-honu/GarimaSingh/blob/master/birds.md"
+    - Birds: "birds.md"
   Resources: "resources"
     # Research: "research"
   # Publications: "pubs"
