@@ -19,12 +19,12 @@ author: Garima Singh
 #baseurl: ""
 
 # --- Navigation bar options --- #
-
+paginate_path: "/Birds/page:num/"
 # List of links in the navigation bar
 navbar-links:
   Profession: "profession"
   Who am I?: "aboutme"
-  Hobbies: "photography"
+  Hobbies: "Birds" #"photography"
   Resources: "resources"
     # Research: "research"
   # Publications: "pubs"
