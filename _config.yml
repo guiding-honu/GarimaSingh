@@ -24,7 +24,7 @@ paginate_path: "/Birds/page:num/"
 navbar-links:
   Profession: "profession"
   Who am I?: "aboutme"
-  Hobbies: "Birds" #"photography"
+  Hobbies: "hobbies"
   Resources: "resources"
     # Research: "research"
   # Publications: "pubs"
