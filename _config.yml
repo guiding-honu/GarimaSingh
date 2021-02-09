@@ -19,7 +19,7 @@ author: Garima Singh
 #baseurl: ""
 
 # --- Navigation bar options --- #
-paginate_path: "/Birds/page:num/"
+paginate_path: "/hobbies/page:num/"
 # List of links in the navigation bar
 navbar-links:
   Profession: "profession"
