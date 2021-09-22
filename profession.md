@@ -37,10 +37,10 @@ _NASA Jet Propulsion Laboratory, Pasadena, California, USA_
 
 ### Instruments I worked on
 
-_ Subaru Coronagraphic Extreme-Adaptive Optics [(SCExAO)](https://www.naoj.org/Projects/SCEXAO/scexaoWEB/000home.web/indexm.html), Subaru Telescope, Hawaii.
-_ Palm-3K Extreme AO (P3K), stellar double coronagraph (SDC) system and the high-contrast imager PHARO, Palomar Mountain, California.
-_ Très Haute Dynamique 2 [(THD2)](https://thd-bench.lesia.obspm.fr/team-10/), LESIA, Observatoirde de Paris.
-_ [NEW EARTH Lab](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11448/114486Y/Optical-design-and-preliminary-results-of-NEW-EARTH-first-Canadian/10.1117/12.2561803.full?SSO=1), Victoria BC, Canada
+- Subaru Coronagraphic Extreme-Adaptive Optics [(SCExAO)](https://www.naoj.org/Projects/SCEXAO/scexaoWEB/000home.web/indexm.html), Subaru Telescope, Hawaii.
+- Palm-3K Extreme AO (P3K), stellar double coronagraph (SDC) system and the high-contrast imager PHARO, Palomar Mountain, California.
+- Très Haute Dynamique 2 [(THD2)](https://thd-bench.lesia.obspm.fr/team-10/), LESIA, Observatoirde de Paris.
+- [NEW EARTH Lab](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11448/114486Y/Optical-design-and-preliminary-results-of-NEW-EARTH-first-Canadian/10.1117/12.2561803.full?SSO=1), Victoria BC, Canada
 
 
 ### Education
