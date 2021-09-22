@@ -78,11 +78,11 @@ Singh, G., Martinache, F., Baudoz, P., Guyon, O., Matsuo, T., Jovanovic N., Cler
 #### Reviewer
 
 - 2019 & 2020 [FINESST](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B913A7DEE-2747-6539-130C-0AB1E2322F42%7D&path=future&method=init) (Future Investigators in NASA Earth and Space Science and Technology) Astrophysics proposals.
-- Journal of Astronomical Telescopes, Instruments, and Systems (JATIS).
+- Journal of Astronomical Telescopes, Instruments, and Systems (JATIS). <br />
 
 #### Invited lecture
 
-[Wavefront sensing and reconstruction](/CfAO_final_talk_GS.pdf), August 20th, 2019 and  August 17th, 2021 <br />
+Wavefront sensing and reconstruction, [August 20th, 2019](/CfAO_final_talk_GS.pdf) and  August 17th, 2021. <br />
 Center for Adaptive Optics summer school [(CfAO)](https://cfao.ucolick.org/aosummer/2021/schedule.html), University of California, Santa Cruz
 
 #### Professional services
