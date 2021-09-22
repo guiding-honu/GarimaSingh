@@ -96,4 +96,4 @@ Center for Adaptive Optics summer school [(CfAO)](https://cfao.ucolick.org/aosum
 National Space Society USA-Mumbai chapter, January 2021: [How to image Exoplanets?](https://www.youtube.com/watch?v=dtFX8FQqrPY&feature=youtu.be)
 
 
-### Full [CV](/CV_GS_Jan2021.pdf).
+### Full [CV](/CV_GS_Jan2021.pdf) as of February 2021.
