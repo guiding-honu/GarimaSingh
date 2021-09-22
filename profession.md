@@ -14,7 +14,8 @@ Develop instruments for ground-based telescopes (8-10 meters) to search and dire
 
 ### Areas of interest
 
-Extreme Adaptive Optics mainly wavefront sensing and control, post-processing of exoplanet and debris disk data and speckle suppression and control algorithms.
+Extreme-Adaptive Optics mainly wavefront sensing and control, post-processing of exoplanet/debris disks and speckle suppression and control algorithms.
+
 
 ### Current Affiliation (February 2021 - Present)
 
@@ -32,7 +33,15 @@ _LESIA, Observatoire de Paris-Meudon, France_
 - [NASA Postdoctoral Program (NPP) Fellow](https://npp.usra.edu/fellows/former-fellows/?year=2017) _(November 2015 - October 2017)_ <br /> 
 _NASA Jet Propulsion Laboratory, Pasadena, California, USA_ 
 
->_I am incredibly grateful to anonymous reviewers for recognizing my potential and giving me opportunities to perofrm my research work under the umbrella of these gracious titles._
+>_I am incredibly grateful to the anonymous reviewers for recognizing my potential and giving me opportunities to perofrm my research work under the umbrella of these gracious titles._
+
+### Instruments I worked on
+
+_ Subaru Coronagraphic Extreme-Adaptive Optics [(SCExAO)](https://www.naoj.org/Projects/SCEXAO/scexaoWEB/000home.web/indexm.html), Subaru Telescope, Hawaii.
+_ Palm-3K Extreme AO (P3K), stellar double coronagraph (SDC) system and the high-contrast imager PHARO, Palomar Mountain, California.
+_ Très Haute Dynamique 2 [(THD2)](https://thd-bench.lesia.obspm.fr/team-10/), LESIA, Observatoirde de Paris.
+_ [NEW EARTH Lab](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11448/114486Y/Optical-design-and-preliminary-results-of-NEW-EARTH-first-Canadian/10.1117/12.2561803.full?SSO=1), Victoria BC, Canada
+
 
 ### Education
 
