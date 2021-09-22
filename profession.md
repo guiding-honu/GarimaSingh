@@ -7,10 +7,11 @@ use-site-title: true
 
 ### What do I do exactly?
 
-Develop instruments for ground-based telescopes (8-10 meters) to search and directly image (exo-)planets outside of our solar system. Below, you may find three public articles I wrote, describing a few research problems we are trying to solve:-  <br />
+Develop instruments for ground-based telescopes (8-10 meters) to search and directly image (exo-)planets orbiting stars other than our sun. Below, you can find three public articles I wrote, describing a few research problems we are trying to solve:-  <br />
 - [World beyond ours](https://www.esperluette-research-outreach.com/single-post/2019/07/08/Worlds-beyond-ours).
 - Improving data interpretation of exoplanet images [(page 27)](Page27_MCAA_Newsletter_December_2019_v5.pdf).
 - [Paving the way for improving exoplanet imaging with ground-based telescopes](PRJ5-EXOPLANETS-Prfd_v4.pdf).
+
 
 ### Areas of interest
 
@@ -26,6 +27,7 @@ National Research Council of Canada <br />
 Victoria V9E 2E7 <br />
 British Columbia, Canada
 
+
 ### Previous Affiliations
 
 - [Marie Skłodowska-Curie Actions Postdoctoral fellow](https://thd-bench.lesia.obspm.fr/team-10/)  _(June 2018 - September 2020)_ <br /> 
@@ -34,6 +36,7 @@ _LESIA, Observatoire de Paris-Meudon, France_
 _NASA Jet Propulsion Laboratory, Pasadena, California, USA_ 
 
 >_I am incredibly grateful to the anonymous reviewers for recognizing my potential and giving me opportunities to perofrm my research work under the umbrella of these gracious titles._
+
 
 ### Instruments I worked on
 
