@@ -13,7 +13,7 @@ Develop instruments for ground-based telescopes (8-10 meters) to search and dire
 - [Paving the way for improving exoplanet imaging with ground-based telescopes](PRJ5-EXOPLANETS-Prfd_v4.pdf).
 
 
-### Areas of interest
+### Areas of research interest
 
 Extreme-Adaptive Optics mainly wavefront sensing and control, post-processing of exoplanet/debris disks and speckle suppression and control algorithms.
 
@@ -42,7 +42,7 @@ _NASA Jet Propulsion Laboratory, Pasadena, California, USA_
 
 - Subaru Coronagraphic Extreme-Adaptive Optics [(SCExAO)](https://www.naoj.org/Projects/SCEXAO/scexaoWEB/000home.web/indexm.html), Subaru Telescope, Hawaii.
 - Palm-3K Extreme AO (P3K), stellar double coronagraph (SDC) system and the high-contrast imager PHARO, Palomar Mountain, California.
-- Très Haute Dynamique 2 [(THD2)](https://thd-bench.lesia.obspm.fr/team-10/), LESIA, Observatoirde de Paris.
+- Très Haute Dynamique 2 [(THD2)](https://thd-bench.lesia.obspm.fr/team-10/), LESIA, Observatoirde de Paris, France.
 - [NEW EARTH Lab](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11448/114486Y/Optical-design-and-preliminary-results-of-NEW-EARTH-first-Canadian/10.1117/12.2561803.full?SSO=1), Victoria BC, Canada
 
 
@@ -85,6 +85,7 @@ Singh, G., Martinache, F., Baudoz, P., Guyon, O., Matsuo, T., Jovanovic N., Cler
 - ADS [link](https://ui.adsabs.harvard.edu/public-libraries/V36n3qzlTKm3JWwlH3B8yw) to Conference Proceedings.
 - Alternatively, ORCID [profie](https://orcid.org/0000-0001-8224-9106).
 
+
 ### Community Work
 
 #### Reviewer
@@ -92,16 +93,19 @@ Singh, G., Martinache, F., Baudoz, P., Guyon, O., Matsuo, T., Jovanovic N., Cler
 - 2019 & 2020 [FINESST](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B913A7DEE-2747-6539-130C-0AB1E2322F42%7D&path=future&method=init) (Future Investigators in NASA Earth and Space Science and Technology) Astrophysics proposals.
 - Journal of Astronomical Telescopes, Instruments, and Systems (JATIS). <br />
 
+
 #### Invited lecture
 
 Wavefront sensing and reconstruction, [August 20th, 2019](/CfAO_final_talk_GS.pdf) and [August 17th, 2021](/CfAO_talk_2021_final_17August2021.pdf). <br />
 Center for Adaptive Optics summer school [(CfAO)](https://cfao.ucolick.org/aosummer/2021/schedule.html), University of California, Santa Cruz
+
 
 #### Professional services
 - International Astronomical Union (IAU) [junior member](https://www.iau.org/administration/membership/individual/19074/).
 - Marie Skłodowska-Curie Alumni Association Member (France & India).
 - Volunteer mentor at [The Supernova Foundation](https://www.supernovafoundation.org/mentorbios) providing career guidance to women.
 - An organizer of the [NYRIA](https://nyriastronomy.github.io/) workshop. 
+
 
 #### Youtube link to an invited outreach talk
 
