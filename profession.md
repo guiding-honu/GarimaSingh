@@ -82,7 +82,7 @@ Singh, G., Martinache, F., Baudoz, P., Guyon, O., Matsuo, T., Jovanovic N., Cler
 
 #### Invited lecture
 
-Wavefront sensing and reconstruction, [August 20th, 2019](/CfAO_final_talk_GS.pdf) and  August 17th, 2021. <br />
+Wavefront sensing and reconstruction, [August 20th, 2019](/CfAO_final_talk_GS.pdf) and [August 17th, 2021](/CfAO_talk_2021_final_17August2021.pdf). <br />
 Center for Adaptive Optics summer school [(CfAO)](https://cfao.ucolick.org/aosummer/2021/schedule.html), University of California, Santa Cruz
 
 #### Professional services
