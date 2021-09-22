@@ -53,6 +53,9 @@ _College of Engineering Roorkee, Uttar Pradesh Technical University, India_
 
 ### Peer-reviewed articles (first author)
 
+- _"Revealing asymmetrical dust distribution in the inner regions of HD 141569"_,
+G. Singh, T. Bhowmik, A. Boccaletti, P. Thébault, Q. Kral, J. Milli, J. Mazoyer, E. Pantin, R. G. van Holstein, J. Olofsson et al. (36 more) , 2021, A&A, [653, A79](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202140319).  <br /> 
+
 - _"Active minimization of non-common path aberrations in long-exposure imaging of exoplanetary systems"_,
 Singh, G., Galicher, R., Baudoz, P., Dupuis, O., Ortiz, M., Potier, A., Thijs, S., Huby, E., 2019, A&A, [631, A106](https://www.aanda.org/articles/aa/abs/2019/11/aa36206-19/aa36206-19.html).  <br />
 
@@ -79,8 +82,8 @@ Singh, G., Martinache, F., Baudoz, P., Guyon, O., Matsuo, T., Jovanovic N., Cler
 
 #### Invited lecture
 
-[Wavefront sensing and reconstruction](/CfAO_final_talk_GS.pdf), August 20, 2019  <br />
-Center for Adaptive Optics summer school (CfAO), University of California, Santa Cruz
+[Wavefront sensing and reconstruction](/CfAO_final_talk_GS.pdf), August 20th, 2019 and  August 17th, 2021 <br />
+Center for Adaptive Optics summer school [(CfAO)](https://cfao.ucolick.org/aosummer/2021/schedule.html), University of California, Santa Cruz
 
 #### Professional services
 - International Astronomical Union (IAU) [junior member](https://www.iau.org/administration/membership/individual/19074/).
