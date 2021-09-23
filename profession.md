@@ -52,7 +52,7 @@ _NASA Jet Propulsion Laboratory, Pasadena, California, USA_
 _Subaru Telescope, Hilo, Big Island of Hawaii, USA and, <br />
 LESIA, Observatoire de Paris-Meudon, France_ <br />
 Dissertation, 2015: [Low-order wavefront control and calibration for phase mask coronagraphs](https://hal.archives-ouvertes.fr/tel-01221421). Mention: Très Honorable <br />
-Thesis Advisors: [Dr. Olivier Guyon](https://subarutelescope.org/staff/guyon/), [Dr. Pierre Baudoz](https://www.linkedin.com/in/baudoz-pierre-b0b00a27/?originalSubdomain=fr) <br />
+Thesis Advisors: [Dr. Olivier Guyon](https://subarutelescope.org/staff/guyon/), [Dr. Pierre Baudoz](https://www.linkedin.com/in/baudoz-pierre-b0b00a27/?originalSubdomain=fr) <br /> <br />
 _Given the potential of the Lyot-stop low-order wavefront sensor (LLOWFS) which I developed during my PhD, several direct imaging instruments embraced it. Apart from SCExAO, the LLOWFS is implemented on THD2, NASA's [PICTURE-C balloon mission](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9605/960519/The-low-order-wavefront-sensor-for-the-PICTURE-C-mission/10.1117/12.2188238.full?SSO=1), under implementation on [CAL2.0](https://ui.adsabs.harvard.edu/abs/2020SPIE11448E..73M/abstract) unit of Gemini Planet Imager [(GPI 2.0)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11447/114471S/GPI-20-upgrading-the-Gemini-Planet-Imager/10.1117/12.2562578.full) and has been recognized for [space telescopes](https://baas.aas.org/pub/2020n7i215/release/1)._
 
 - M.Tech., Honors, Astronomy & Astrophysics _(July 2008 - September 2010)_ <br />
