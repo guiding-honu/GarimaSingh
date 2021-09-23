@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Garima Singh (she/her)
-subtitle: Astronomy & Astrophysics, PhD
+title: Garima Singh
+subtitle: (She/Her), Astronomy & Astrophysics, PhD
 use-site-title: true
 ---
 
@@ -12,12 +12,12 @@ Develop instruments for ground-based telescopes (8-10 meters) to search and dire
 - Improving data interpretation of exoplanet images [(page 27)](Page27_MCAA_Newsletter_December_2019_v5.pdf).
 - [Paving the way for improving exoplanet imaging with ground-based telescopes](PRJ5-EXOPLANETS-Prfd_v4.pdf).
 
-
+<br />
 ### Areas of research interest
 
 Extreme-Adaptive Optics mainly wavefront sensing and control, post-processing of exoplanet/debris disks and speckle suppression and control algorithms.
 
-
+<br />
 ### Current Affiliation (February 2021 - Present)
 
 Postdoctoral Fellow, Life Signatures on Exoplanets <br />
@@ -27,7 +27,7 @@ National Research Council of Canada <br />
 Victoria V9E 2E7 <br />
 British Columbia, Canada
 
-
+<br />
 ### Previous Affiliations
 
 - [Marie Skłodowska-Curie Actions Postdoctoral fellow](https://thd-bench.lesia.obspm.fr/team-10/)  _(June 2018 - September 2020)_ <br /> 
@@ -37,7 +37,7 @@ _NASA Jet Propulsion Laboratory, Pasadena, California, USA_
 
 >_I am incredibly grateful to the anonymous reviewers for recognizing my potential and giving me opportunities to perofrm my research work under the umbrella of these gracious titles._
 
-
+<br />
 ### Instruments I worked on
 
 - Subaru Coronagraphic Extreme-Adaptive Optics [(SCExAO)](https://www.naoj.org/Projects/SCEXAO/scexaoWEB/000home.web/indexm.html), Subaru Telescope, Hawaii.
@@ -45,7 +45,7 @@ _NASA Jet Propulsion Laboratory, Pasadena, California, USA_
 - Très Haute Dynamique 2 [(THD2)](https://thd-bench.lesia.obspm.fr/team-10/), LESIA, Observatoirde de Paris, France.
 - [NEW EARTH Lab](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11448/114486Y/Optical-design-and-preliminary-results-of-NEW-EARTH-first-Canadian/10.1117/12.2561803.full?SSO=1), Victoria BC, Canada
 
-
+<br />
 ### Education
 
 - [PhD student](https://www.naoj.org/Projects/SCEXAO/scexaoWEB/060team.web/010team.web/indexm.html) _(October 2012 - September 2015)_ <br />
@@ -62,7 +62,7 @@ Thesis Advisors: [Dr. Guy Perrin](https://www.insu.cnrs.fr/fr/personne/guy-perri
 - B.Tech., First Division, Information Technology _(July 2004 - May 2008)_ <br />
 _College of Engineering Roorkee, Uttar Pradesh Technical University, India_
 
-
+<br />
 ### Peer-reviewed articles (first author)
 
 - _"Revealing asymmetrical dust distribution in the inner regions of HD 141569"_,
@@ -85,31 +85,27 @@ Singh, G., Martinache, F., Baudoz, P., Guyon, O., Matsuo, T., Jovanovic N., Cler
 - ADS [link](https://ui.adsabs.harvard.edu/public-libraries/V36n3qzlTKm3JWwlH3B8yw) to Conference Proceedings.
 - Alternatively, ORCID [profie](https://orcid.org/0000-0001-8224-9106).
 
-
+<br />
 ### Community Work
 
 #### Reviewer
 
 - 2019 & 2020 [FINESST](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B913A7DEE-2747-6539-130C-0AB1E2322F42%7D&path=future&method=init) (Future Investigators in NASA Earth and Space Science and Technology) Astrophysics proposals.
 - Journal of Astronomical Telescopes, Instruments, and Systems (JATIS). <br />
-
  <br />
 #### Invited lecture
 
 Wavefront sensing and reconstruction, [August 20th, 2019](/CfAO_final_talk_GS.pdf) and [August 17th, 2021](/CfAO_talk_2021_final_17August2021.pdf). <br />
 Center for Adaptive Optics summer school [(CfAO)](https://cfao.ucolick.org/aosummer/2021/schedule.html), University of California, Santa Cruz
-
  <br />
 #### Professional services
 - International Astronomical Union (IAU) [junior member](https://www.iau.org/administration/membership/individual/19074/).
 - Marie Skłodowska-Curie Alumni Association Member (France & India).
 - Volunteer mentor at [The Supernova Foundation](https://www.supernovafoundation.org/mentorbios) providing career guidance to women.
 - An organizer of the [NYRIA](https://nyriastronomy.github.io/) workshop. 
-
  <br />
 #### Youtube link to an invited outreach talk
 
 National Space Society USA-Mumbai chapter, January 2021: [How to image Exoplanets?](https://www.youtube.com/watch?v=dtFX8FQqrPY&feature=youtu.be)
-
  <br />
 ### Full [CV](/CV_GS_Jan2021.pdf) as of February 2021.
