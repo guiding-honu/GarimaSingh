@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Garima Singh
-subtitle: (She/Her), Astronomy & Astrophysics, PhD
+subtitle: (She/Her)
+subtitle: Astronomy & Astrophysics, PhD
 use-site-title: true
 ---
 
@@ -92,20 +93,20 @@ Singh, G., Martinache, F., Baudoz, P., Guyon, O., Matsuo, T., Jovanovic N., Cler
 
 - 2019 & 2020 [FINESST](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B913A7DEE-2747-6539-130C-0AB1E2322F42%7D&path=future&method=init) (Future Investigators in NASA Earth and Space Science and Technology) Astrophysics proposals.
 - Journal of Astronomical Telescopes, Instruments, and Systems (JATIS). <br />
- <br />
+<br />
 #### Invited lecture
 
 Wavefront sensing and reconstruction, [August 20th, 2019](/CfAO_final_talk_GS.pdf) and [August 17th, 2021](/CfAO_talk_2021_final_17August2021.pdf). <br />
 Center for Adaptive Optics summer school [(CfAO)](https://cfao.ucolick.org/aosummer/2021/schedule.html), University of California, Santa Cruz
- <br />
+<br />
 #### Professional services
 - International Astronomical Union (IAU) [junior member](https://www.iau.org/administration/membership/individual/19074/).
 - Marie Skłodowska-Curie Alumni Association Member (France & India).
 - Volunteer mentor at [The Supernova Foundation](https://www.supernovafoundation.org/mentorbios) providing career guidance to women.
 - An organizer of the [NYRIA](https://nyriastronomy.github.io/) workshop. 
- <br />
+<br />
 #### Youtube link to an invited outreach talk
 
 National Space Society USA-Mumbai chapter, January 2021: [How to image Exoplanets?](https://www.youtube.com/watch?v=dtFX8FQqrPY&feature=youtu.be)
- <br />
+<br />
 ### Full [CV](/CV_GS_Jan2021.pdf) as of February 2021.
