@@ -43,7 +43,7 @@ _NASA Jet Propulsion Laboratory, Pasadena, California, USA_
 - Subaru Coronagraphic Extreme-Adaptive Optics [(SCExAO)](https://www.naoj.org/Projects/SCEXAO/scexaoWEB/000home.web/indexm.html), Subaru Telescope, Hawaii.
 - Palm-3K Extreme AO (P3K), Stellar Double Coronagraph (SDC) system and the high-contrast imager PHARO, Palomar Mountain, California.
 - Très Haute Dynamique 2 [(THD2)](https://thd-bench.lesia.obspm.fr/team-10/), LESIA, Observatoirde de Paris, France.
-- [NEW EARTH Lab](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11448/114486Y/Optical-design-and-preliminary-results-of-NEW-EARTH-first-Canadian/10.1117/12.2561803.full?SSO=1), Victoria BC, Canada
+- [NEW EARTH Lab](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11448/114486Y/Optical-design-and-preliminary-results-of-NEW-EARTH-first-Canadian/10.1117/12.2561803.full?SSO=1), Victoria BC, Canada <br />
   _My projects at NRC HAA includes developing a low-order wavefront sensor for [CAL2.0](https://ui.adsabs.harvard.edu/abs/2020SPIE11448E..73M/abstract) unit of Gemini Planet Imager [(GPI 2.0)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11447/114471S/GPI-20-upgrading-the-Gemini-Planet-Imager/10.1117/12.2562578.full) and merge the control loop with a focal plane wavefront sensor and develop an end-end simulation of an exoplanet imaging instrument for Thirty Meter Telescope._
 
 <br />
