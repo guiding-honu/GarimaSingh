@@ -21,8 +21,8 @@ Extreme-Adaptive Optics mainly wavefront sensing and control, post-processing of
 ### Current Affiliation (February 2021 - Present)
 
 Postdoctoral Fellow, Life Signatures on Exoplanets <br />
-National Research Council of Canada <br />
-[Herzberg Astronomy and Astrophysics Research Centre](https://astroherzberg.org/) <br />
+National Research Council of Canada (NRC) <br />
+[Herzberg Astronomy and Astrophysics Research Centre](https://astroherzberg.org/) (HAA) <br />
 5071 W Saanich Rd <br />
 Victoria V9E 2E7 <br />
 British Columbia, Canada
@@ -44,6 +44,7 @@ _NASA Jet Propulsion Laboratory, Pasadena, California, USA_
 - Palm-3K Extreme AO (P3K), Stellar Double Coronagraph (SDC) system and the high-contrast imager PHARO, Palomar Mountain, California.
 - Très Haute Dynamique 2 [(THD2)](https://thd-bench.lesia.obspm.fr/team-10/), LESIA, Observatoirde de Paris, France.
 - [NEW EARTH Lab](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11448/114486Y/Optical-design-and-preliminary-results-of-NEW-EARTH-first-Canadian/10.1117/12.2561803.full?SSO=1), Victoria BC, Canada
+  _My projects at NRC HAA includes developing a low-order wavefront sensor for [CAL2.0](https://ui.adsabs.harvard.edu/abs/2020SPIE11448E..73M/abstract) unit of Gemini Planet Imager [(GPI 2.0)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11447/114471S/GPI-20-upgrading-the-Gemini-Planet-Imager/10.1117/12.2562578.full) and merge the control loop with a focal plane wavefront sensor and develop an end-end simulation of an exoplanet imaging instrument for Thirty Meter Telescope._
 
 <br />
 ### Education
@@ -53,7 +54,7 @@ _Subaru Telescope, Hilo, Big Island of Hawaii, USA and, <br />
 LESIA, Observatoire de Paris-Meudon, France_ <br />
 Dissertation, 2015: [Low-order wavefront control and calibration for phase mask coronagraphs](https://hal.archives-ouvertes.fr/tel-01221421). Mention: Très Honorable <br />
 Thesis Advisors: [Dr. Olivier Guyon](https://subarutelescope.org/staff/guyon/), [Dr. Pierre Baudoz](https://www.linkedin.com/in/baudoz-pierre-b0b00a27/?originalSubdomain=fr) <br /> <br />
-_Given the potential of the Lyot-stop low-order wavefront sensor (LLOWFS) which I developed during my PhD, several direct imaging instruments embraced it. Apart from SCExAO, the LLOWFS is implemented on THD2, NASA's [PICTURE-C balloon mission](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9605/960519/The-low-order-wavefront-sensor-for-the-PICTURE-C-mission/10.1117/12.2188238.full?SSO=1), under development on [CAL2.0](https://ui.adsabs.harvard.edu/abs/2020SPIE11448E..73M/abstract) unit of Gemini Planet Imager [(GPI 2.0)](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11447/114471S/GPI-20-upgrading-the-Gemini-Planet-Imager/10.1117/12.2562578.full) and has been recognized for future [space coronagraphic missions](https://baas.aas.org/pub/2020n7i215/release/1)._
+_Given the potential of the Lyot-stop low-order wavefront sensor (LLOWFS) which I developed during my PhD, several direct imaging instruments embraced it. Apart from SCExAO, the LLOWFS is implemented on THD2, NASA's [PICTURE-C balloon mission](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9605/960519/The-low-order-wavefront-sensor-for-the-PICTURE-C-mission/10.1117/12.2188238.full?SSO=1), under development for GPI 2.0, and has also been recognized for future [space coronagraphic missions](https://baas.aas.org/pub/2020n7i215/release/1)._
 
 - M.Tech., Honors, Astronomy & Astrophysics _(July 2008 - September 2010)_ <br />
 _Université de Paris XI Sud and Ecole Normale Superieure de Cachan, France_ <br />
