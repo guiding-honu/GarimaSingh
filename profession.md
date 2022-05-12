@@ -108,8 +108,9 @@ Center for Adaptive Optics summer school [(CfAO)](https://cfao.ucolick.org/aosum
 - Volunteer mentor at [The Supernova Foundation](https://www.supernovafoundation.org/mentorbios) providing career guidance to women.
 - An organizer of the [NYRIA](https://nyriastronomy.github.io/) workshop. 
 
-#### Youtube link to an invited outreach talk
+#### Youtube links to invited outreach talks
 
 National Space Society USA-Mumbai chapter, January 2021: [How to image Exoplanets?](https://www.youtube.com/watch?v=dtFX8FQqrPY&feature=youtu.be)
+Star party, Dominion Astrophysical Observatory, April 2022: [Direct Imaging of Exopalnets](https://centreoftheuniverse.org/events/2022/1/22/star-party-jan-22nd-6525f-sw6x6)
 <br />
 ### Full [CV](/CV_GS_Feb2022.pdf) as of February 2022.
