@@ -27,7 +27,7 @@ National Research Council of Canada (NRC) <br />
 Victoria V9E 2E7 <br />
 British Columbia, Canada
 
-_Recetly, accepted the position of an Adaptive Optics Associate Scientist at Gemini North, Hilo (May 2022)._ 
+_<b>Recetly, accepted the position of an Adaptive Optics Associate Scientist at Gemini North, Hilo (May 2022).</b>_ 
 
 <br />
 ### Fellowships and previous affiliations
@@ -110,7 +110,7 @@ Center for Adaptive Optics summer school [(CfAO)](https://cfao.ucolick.org/aosum
 
 #### Youtube links to invited outreach talks
 
-National Space Society USA-Mumbai chapter, January 2021: [How to image Exoplanets?](https://www.youtube.com/watch?v=dtFX8FQqrPY&feature=youtu.be)
+National Space Society USA-Mumbai chapter, January 2021: [How to image Exoplanets?](https://www.youtube.com/watch?v=dtFX8FQqrPY&feature=youtu.be)<br />
 Star party, Dominion Astrophysical Observatory, April 2022: [Direct Imaging of Exopalnets](https://centreoftheuniverse.org/events/2022/1/22/star-party-jan-22nd-6525f-sw6x6)
 <br />
 ### Full [CV](/CV_GS_Feb2022.pdf) as of February 2022.
