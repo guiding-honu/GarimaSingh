@@ -27,6 +27,8 @@ National Research Council of Canada (NRC) <br />
 Victoria V9E 2E7 <br />
 British Columbia, Canada
 
+_Recetly, accepted the position of an Adaptive Optics Associate Scientist at Gemini North, Hilo (May 2022)._ 
+
 <br />
 ### Fellowships and previous affiliations
 
