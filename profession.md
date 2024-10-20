@@ -20,7 +20,7 @@ Extreme-Adaptive Optics mainly wavefront sensing and control, post-processing of
 <br />
 ### Current Affiliation (December 2022 - Present)
 
-Adaptive Optics Associate Scientist <br />
+[Adaptive Optics Associate Scientist](https://noirlab.edu/science/about/scientists-at-noirlab) <br />
 Gemini North Observatory <br />
 670 N A'ohoku Plave <br />
 Hilo 96720 <br />
@@ -31,7 +31,7 @@ Hawaii
 ### Fellowships and previous affiliations
 
 - Postdoctoral Fellow, Life Signatures on Exoplanets _(February 2021 - November 2022)_ <br /> 
-_[Herzberg Astronomy and Astrophysics Research Centre](https://astroherzberg.org/), Victoria, BC, Canada 
+_[Herzberg Astronomy and Astrophysics Research Centre](https://astroherzberg.org/), Victoria, BC, Canada_ 
 - [Marie Skłodowska-Curie Actions Postdoctoral fellow](https://thd-bench.lesia.obspm.fr/team-10/)  _(June 2018 - September 2020)_ <br /> 
 _LESIA, Observatoire de Paris-Meudon, France_
 - [NASA Postdoctoral Program (NPP) Fellow](https://npp.usra.edu/fellows/former-fellows/?year=2017) _(November 2015 - October 2017)_ <br /> 
