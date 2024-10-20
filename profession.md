@@ -32,7 +32,7 @@ _<b>Joining Gemini North Observatory in Hilo, Hawaii as an Adaptive Optics Assoc
 ### Fellowships and previous affiliations
 
 _ Postdoctoral Fellow, Life Signatures on Exoplanets _(February 2021 - November 2022)_ <br /> 
-_ NRC's [Herzberg Astronomy and Astrophysics Research Centre](https://astroherzberg.org/) (HAA) <br />
+_[Herzberg Astronomy and Astrophysics Research Centre](https://astroherzberg.org/), Victoria, BC, Canada 
 - [Marie Skłodowska-Curie Actions Postdoctoral fellow](https://thd-bench.lesia.obspm.fr/team-10/)  _(June 2018 - September 2020)_ <br /> 
 _LESIA, Observatoire de Paris-Meudon, France_
 - [NASA Postdoctoral Program (NPP) Fellow](https://npp.usra.edu/fellows/former-fellows/?year=2017) _(November 2015 - October 2017)_ <br /> 
