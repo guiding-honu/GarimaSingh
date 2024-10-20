@@ -22,8 +22,8 @@ author: Garima Singh (She/Her)
 # List of links in the navigation bar
 navbar-links:
   Profession: "profession"
-  Who am I?: "aboutme"
-  Hobbies: "hobbies"
+  #Who am I?: "aboutme"
+  #Hobbies: "hobbies"
   Resources: "resources"
     # Research: "research"
   # Publications: "pubs"
@@ -82,12 +82,12 @@ feed_show_tags: true
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "garima.singh@obspm.fr"
+  email: "garima.singh@noirlab.edu"
   #github: 
   #twitter: 
   #inspire: 
   orchid: 0000-0001-8224-9106
-  linkedin: https://www.linkedin.com/in/garima-s-2a9843124/
+  linkedin: https://www.linkedin.com/in/garima-singh-ao/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
