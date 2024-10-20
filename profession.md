@@ -20,12 +20,11 @@ Extreme-Adaptive Optics mainly wavefront sensing and control, post-processing of
 <br />
 ### Current Affiliation (February 2021 - Present)
 
-Postdoctoral Fellow, Life Signatures on Exoplanets <br />
-National Research Council of Canada (NRC) <br />
-[Herzberg Astronomy and Astrophysics Research Centre](https://astroherzberg.org/) (HAA) <br />
-5071 W Saanich Rd <br />
-Victoria V9E 2E7 <br />
-British Columbia, Canada
+Adaptive Optics Associate Scientist <br />
+Gemini North Observatory <br />
+670 N A'ohoku Plave <br />
+Hilo 96720 <br />
+Hawaii
 
 _<b>Joining Gemini North Observatory in Hilo, Hawaii as an Adaptive Optics Associate Scientist in December 2022.</b>_ 
 
