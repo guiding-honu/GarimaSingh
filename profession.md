@@ -13,6 +13,7 @@ Developing instruments for ground-based telescopes (8-10 meters) to search and d
 - Improving data interpretation of exoplanet images [(page 27)](Page27_MCAA_Newsletter_December_2019_v5.pdf).
 - [Paving the way for improving exoplanet imaging with ground-based telescopes](PRJ5-EXOPLANETS-Prfd_v4.pdf).
 
+<br />
 ### Areas of research interest
 
 Extreme-Adaptive Optics mainly wavefront sensing and control, post-processing of exoplanet/debris disks and speckle suppression and control algorithms.
