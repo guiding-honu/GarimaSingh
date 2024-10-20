@@ -18,7 +18,7 @@ Developing instruments for ground-based telescopes (8-10 meters) to search and d
 Extreme-Adaptive Optics mainly wavefront sensing and control, post-processing of exoplanet/debris disks and speckle suppression and control algorithms.
 
 <br />
-### Current Affiliation (February 2021 - Present)
+### Current Affiliation (December 2022 - Present)
 
 Adaptive Optics Associate Scientist <br />
 Gemini North Observatory <br />
@@ -26,12 +26,11 @@ Gemini North Observatory <br />
 Hilo 96720 <br />
 Hawaii
 
-_<b>Joining Gemini North Observatory in Hilo, Hawaii as an Adaptive Optics Associate Scientist in December 2022.</b>_ 
 
 <br />
 ### Fellowships and previous affiliations
 
-_ Postdoctoral Fellow, Life Signatures on Exoplanets _(February 2021 - November 2022)_ <br /> 
+- Postdoctoral Fellow, Life Signatures on Exoplanets _(February 2021 - November 2022)_ <br /> 
 _[Herzberg Astronomy and Astrophysics Research Centre](https://astroherzberg.org/), Victoria, BC, Canada 
 - [Marie Skłodowska-Curie Actions Postdoctoral fellow](https://thd-bench.lesia.obspm.fr/team-10/)  _(June 2018 - September 2020)_ <br /> 
 _LESIA, Observatoire de Paris-Meudon, France_
