@@ -113,4 +113,4 @@ Center for Adaptive Optics summer school [(CfAO)](https://cfao.ucolick.org/aosum
 National Space Society USA-Mumbai chapter, January 2021: [How to image Exoplanets?](https://www.youtube.com/watch?v=dtFX8FQqrPY&feature=youtu.be)<br />
 Star party, Dominion Astrophysical Observatory, April 2022: [Direct Imaging of Exopalnets](https://centreoftheuniverse.org/events/2022/1/22/star-party-jan-22nd-6525f-sw6x6)
 <br />
-### Full [CV](/CV_GS_Feb2022.pdf) as of February 2022.
+### Full [CV](/CV_GS_GC2024.pdf) as of October 2024.
