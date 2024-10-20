@@ -5,6 +5,8 @@ subtitle: Astronomy & Astrophysics, PhD
 use-site-title: true
 ---
 
+_My website [Equanimous Corner](https://equanimouscorner.com) will be published soon ..._
+<br />
 ### Areas of expertise
 
 Developing instruments for ground-based telescopes (8-10 meters) to search and directly image (exo-)planets orbiting stars other than our sun. Below, you can find three public articles I wrote, describing a few research problems we are trying to solve:-  <br />
